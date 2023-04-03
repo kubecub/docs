@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-998979d4\",\"path\":\"/iam/projects/67.html\",\"title\":\"第67节\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"END 链接\",\"slug\":\"end-链接\",\"link\":\"#end-链接\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"iam/projects/67.md\"}")
