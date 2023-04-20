@@ -100,5 +100,6 @@ export const pagesRoutes = [
   ["v-51edf4d9","/iam/projects/97.html",{"title":"第97节"},["/iam/projects/97","/iam/projects/97.md"]],
   ["v-53a2cd78","/iam/projects/98.html",{"title":"第98节"},["/iam/projects/98","/iam/projects/98.md"]],
   ["v-5557a617","/iam/projects/99.html",{"title":"第99节"},["/iam/projects/99","/iam/projects/99.md"]],
+  ["v-02116224","/iam/projects/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5.html",{"title":"项目管理从理论到实践"},["/iam/projects/项目管理从理论到实践.html","/iam/projects/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5","/iam/projects/项目管理从理论到实践.md","/iam/projects/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

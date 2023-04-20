@@ -201,6 +201,8 @@ export const pagesData = {
   "v-53a2cd78": () => import(/* webpackChunkName: "v-53a2cd78" */"D:/文档/最近的/k8s-iam/docs/.vuepress/.temp/pages/iam/projects/98.html.js").then(({ data }) => data),
   // path: /iam/projects/99.html
   "v-5557a617": () => import(/* webpackChunkName: "v-5557a617" */"D:/文档/最近的/k8s-iam/docs/.vuepress/.temp/pages/iam/projects/99.html.js").then(({ data }) => data),
+  // path: /iam/projects/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5.html
+  "v-02116224": () => import(/* webpackChunkName: "v-02116224" */"D:/文档/最近的/k8s-iam/docs/.vuepress/.temp/pages/iam/projects/项目管理从理论到实践.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/文档/最近的/k8s-iam/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
