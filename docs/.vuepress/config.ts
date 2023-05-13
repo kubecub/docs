@@ -137,7 +137,7 @@ export default {
         repoLabel: "查看源码",
         docsDir: "docs",
         docsBranch: "master",
-        repo: "c-ub/docs",
+        repo: "kubecub/docs",
         tip: "提示",
         warning: "注意",
         danger: "警告",
@@ -176,7 +176,7 @@ export default {
                     },
                     {
                         text: "⛓️链学社组织",
-                        link: "https://github.com/C-UB/",
+                        link: "https://github.com/kubecub/",
                         target: "_blank",
                     },
                 ],

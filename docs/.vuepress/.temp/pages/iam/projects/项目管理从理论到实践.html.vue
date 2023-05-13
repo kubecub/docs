@@ -444,7 +444,7 @@
 <p><img src="http://sm.nsddd.top/sm202301132052764.png" alt="image-20230113205211535"></p>
 <h2 id="github-project" tabindex="-1"><a class="header-anchor" href="#github-project" aria-hidden="true">#</a> GitHub Project</h2>
 <ul>
-<li><a href="https://github.com/orgs/c-ub/projects/2" target="_blank" rel="noopener noreferrer">cub projects<ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/orgs/kubecub/projects/2" target="_blank" rel="noopener noreferrer">cub projects<ExternalLinkIcon/></a></li>
 </ul>
 <h3 id="project-概述" tabindex="-1"><a class="header-anchor" href="#project-概述" aria-hidden="true">#</a> Project 概述</h3>
 <p>GitHub作为我最常用的网站，其功能也是无穷无尽的。</p>
