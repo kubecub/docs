@@ -136,7 +136,7 @@ export default {
         contributorsText: "贡献者",
         repoLabel: "查看源码",
         docsDir: "docs",
-        docsBranch: "master",
+        docsBranch: "main",
         repo: "kubecub/docs",
         tip: "提示",
         warning: "注意",
